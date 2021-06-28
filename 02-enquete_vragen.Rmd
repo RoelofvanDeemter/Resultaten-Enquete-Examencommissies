@@ -122,7 +122,7 @@ Vormen van ongeoorloofde samenwerking via sociale media worden frequenter gezien
 Incidenteel wordt melding gemaakt van het fotograferen dan wel het maken van een screenshot van opgaven, een probleem dat ook bij de inzage in afgelegde tentamens speelt. Ook wordt het sjoemelen met tijden (door herhaaldelijk aanmelden of later beginnen, zogenaamd wegens technische storingen te laat inleveren) en het saboteren van de ID-check genoemd.
 Met enige regelmaat uiten respondenten hun zorg over de achterstand die instellingen hebben op computervaardige studenten die zich voordelen weten te verschaffen met allerlei applicaties, in-ear koptelefoons en door het gebruik van software waarmee de online proctoring wordt ondermijnd.
 
-## Omgang fraudemeldingen
+## Omgang met fraudemeldingen
 
 **Hoe is op dergelijke fraudemeldingen gereageerd (zoals bijvoorbeeld met aanscherping van de preventie, ongeldigverklaring, sanctie, aanpassing fraudebeleid)?**
 
@@ -145,7 +145,7 @@ Bij deze vraag tekent zich een verschil af tussen hbo en wo. Lichte tot matige s
 Er zijn geen aanwijzingen dat de bereidheid van docenten om potentiële fraudegevallen te melden, tijdens de Corona-periode groter was dan voordien. Slechts af en toe signaleren respondenten dat de waakzaamheid onder docenten t.a.v. mogelijke fraude voor hun gevoel is toegenomen. Bij het percentage van 20% dat geen stijging van het aantal meldingen heeft vastgesteld, kan het voor een deel gaan om kleinschaliger masteropleidingen waarvan de wijze van toetsen tijdens de Corona-periode niet anders is dan voordien.
 De antwoorden van het merendeel van de respondenten maken een verband met de toegenomen werkdruk van examencommissies aannemelijk.
 
-## Fraude gevoelige toetsvormen
+## Fraudegevoelige toetsvormen
 
 **Welke toetsvormen zijn volgens uw examencommissie bij uitstek fraudegevoelig bij toetsing op afstand?**
 
@@ -153,7 +153,7 @@ Drie toetsvormen springen eruit als vormen die het wel heel verleidelijk maken o
 
 Ten aanzien van take-home tentamens moet het volgende bedacht worden. Doordat docenten in hoog tempo met een alternatieve toetsvorm moesten komen, toen duidelijk werd dat het fysiek op een toetslocatie afnemen van een toets niet meer tot de mogelijkheden behoorde, was het take-home tentamen een interessante optie, al vergde die dat de opzet van de vragen ingrijpend moest veranderen, om niet uit te komen bij een veel te eenvoudig tentamen waarvan nog maar de vraag zou zijn of het de beoogde leeruitkomsten van het betreffende vak wel voldoende afdekte. Als niettemin voor het alternatief van het take-home tentamen werd gekozen, had dit ook voor studenten ingrijpende consequenties die wellicht niet altijd gezien lijken te worden. Een take-home tentamen lijkt vanuit het student-perspectief wellicht een aantrekkelijk alternatief, omdat men hiermee associeert dat men alle mogelijke bronnen mag gebruiken, zonder zich veel gelegen te laten liggen aan de conventies van integer brongebruik. In de perceptie van studenten valt deze toetsvorm in de categorie ‘tentamen’, een categorie die veel meer vrijheid in de omgang met bronnen lijkt bieden dan bijvoorbeeld een werkstuk, dat als toetsvorm veel minder raakvlakken met een klassiek tentamen heeft. Bij een werkstuk zullen studenten zich daarom vermoedelijk bewuster zijn van de regels van academische integriteit. Als studenten bij take-home tentamens niet uitdrukkelijk gewezen zijn op de regels rond het respecteren van de intellectuele eigendom, kan dit leiden tot het zonder bronvermelding en zonder het gebruik van aanhalingstekens veelvuldig kopiëren van tekst van anderen. Dan is het een kleine stap als de categorie van de “anderen” opgerekt wordt naar medestudenten die bezig zijn met hetzelfde tentamen.
 
-## Behoefte fraudepreventie
+## Behoefte aan fraudepreventie
 
 **Waaraan heeft uw examencommissie behoefte, als het gaat om fraudepreventie en 
 -detectie bij toetsen op afstand?**
@@ -171,7 +171,7 @@ Deze vraag is door ruim 100 respondenten beantwoord. 80% geeft aan haar beleid n
 *	versterkte inzet plagiaatscanner, ook bij kleine schrijfopdrachten
 *	coulance wegens onduidelijkheden voor studenten.
 
-## Onregelmatigheid vs fraude
+## Onregelmatigheid vs. fraude
 
 **Hanteert uw examencommissie het onderscheid tussen ‘onregelmatigheid’ en ‘fraude’? Zo ja, wat zijn de gevolgen hiervan in de afhandeling van zaken?**
 
